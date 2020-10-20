@@ -55,7 +55,7 @@
 }
 .chat__footer{
     display: flex;
-    background-color: rgb(228, 220, 220);
+    background-color: rgb(230, 230, 230);
     align-items: center;
     justify-content: space-between;
     height: 62px;
